@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAidQuiz", "FirstAidQuiz\FirstAidQuiz.csproj", "{EBD83B0E-663B-4AAA-8987-47B0FB6DD93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAidQuizTests", "FirstAidQuizTests\FirstAidQuizTests.csproj", "{7438701A-F958-422C-957D-F6DA743A3AED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{14A5A52D-0B30-4D6B-83D2-3B2878AEA975}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD83B0E-663B-4AAA-8987-47B0FB6DD93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD83B0E-663B-4AAA-8987-47B0FB6DD93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD83B0E-663B-4AAA-8987-47B0FB6DD93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD83B0E-663B-4AAA-8987-47B0FB6DD93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7438701A-F958-422C-957D-F6DA743A3AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7438701A-F958-422C-957D-F6DA743A3AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7438701A-F958-422C-957D-F6DA743A3AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7438701A-F958-422C-957D-F6DA743A3AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74EBFCE-1696-419B-88E4-B142EFD83EB1}
+	EndGlobalSection
+EndGlobal
